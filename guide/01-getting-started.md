@@ -19,7 +19,7 @@ This section walks through each step with expected outputs so you know you're on
    - **GitHub** -- uses your GitHub username as your operator identity
 3. Once authenticated, you'll land on the Task Node dashboard
 
-Your identity on the network is tied to your auth provider. If you sign up with GitHub as `parshantdeep`, your operator identity across the network is `parshantdeep`.
+Your identity on the network is tied to your auth provider. If you sign up with GitHub as `your-username`, your operator identity across the network is `your-username`.
 
 > **Tip:** Use the same identity you want associated with your work. Your X handle or GitHub username will appear on the leaderboard and in task attributions.
 
@@ -27,7 +27,7 @@ Your identity on the network is tied to your auth provider. If you sign up with 
 
 After signing up, Task Node creates an XRPL wallet for you on the PFTL testnet.
 
-- Your wallet address looks like: `rKHwwPqA7EKaeaTbRJ6DfbhLUarSXshcfK`
+- Your wallet address looks like: `rXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX`
 - You'll receive a **12-word mnemonic phrase** -- store this securely
 - The wallet is activated automatically with a small PFTL balance for transaction fees
 
@@ -121,7 +121,7 @@ Expected output (healthy setup):
 ```
 Auth Status:
   JWT Token: Set (expires in 23h 45m)
-  Wallet: rKHwwPqA7EKaeaTbRJ6DfbhLUarSXshcfK
+  Wallet: rYourWalletAddressHere
   Network: PFTL Testnet
   Balance: 50.00 PFTL
   Status: Ready

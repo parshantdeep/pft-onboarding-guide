@@ -51,23 +51,23 @@ learning new technologies.
 
 ```
 ## Identity
-- GitHub: parshantdeep
-- X/Twitter: parshantdeep
-- XRPL Wallet: rKHwwPqA7EKaeaTbRJ6DfbhLUarSXshcfK
+- GitHub: your-github-username
+- X/Twitter: your-x-handle
+- XRPL Wallet: rYourWalletAddressHere
 
 ## Technical Skills
 - Languages: TypeScript (primary), Python, Rust (learning)
 - Frameworks: Node.js, React, Express, Oclif (CLI framework)
 - Infrastructure: Docker, GitHub Actions CI/CD, Vercel, Railway
-- Blockchain: XRPL (transactions, hooks), Bittensor (subnet operations, staking)
+- Blockchain: XRPL (transactions, hooks), Solidity (basic)
 - AI/ML: Claude API, OpenAI API, MCP (Model Context Protocol) server development
 
 ## What I've Built (Verifiable)
-- pft-tasknode-mcp: MCP server wrapping Post Fiat Task Node API
-  (https://github.com/parshantdeep/pft-tasknode-mcp)
-- finances.parshant.com: Real-time portfolio dashboard with 13 agent integrations
-- dtao-trading-bot: Automated trading bot for Bittensor dynamic TAO subnets
-- clawdbot: Discord bot with multi-channel integration and CLI interface
+- my-mcp-server: MCP server wrapping a REST API
+  (https://github.com/your-username/my-mcp-server)
+- my-dashboard.example.com: Real-time portfolio dashboard
+- trading-bot: Automated trading bot for DeFi protocols
+- discord-bot: Discord bot with multi-channel integration and CLI interface
 
 ## Current Goals
 - Build tools that make the Post Fiat ecosystem more accessible
@@ -78,13 +78,13 @@ learning new technologies.
 ## Work Preferences
 - I prefer network tasks (building tools, infrastructure, documentation)
 - I ship fast: typical project from idea to deployed in 4-12 hours
-- I use Claude Code as my primary development environment
+- I use AI coding assistants as my primary development environment
 - All my work is open-source and pushed to GitHub immediately
 
 ## What I'm NOT Interested In
 - Pure research tasks without a concrete deliverable
 - Social media engagement tasks
-- Tasks requiring platforms I don't use (TikTok, Instagram for content)
+- Tasks requiring platforms I don't use
 ```
 
 **Why this scores well:**
@@ -104,7 +104,7 @@ learning new technologies.
 The ODV crawls GitHub when verifying URL evidence. If your GitHub username isn't in your context document, the system can't connect your submissions to your identity.
 
 ```
-GitHub: parshantdeep
+GitHub: your-github-username
 ```
 
 ### 2. List Your Specific Tech Stack
@@ -120,8 +120,8 @@ DevOps: Docker, GitHub Actions, Vercel, Railway
 The ODV trusts operators who have verifiable prior work. Link to repos, deployed apps, or published packages:
 
 ```
-- pft-tasknode-mcp (https://github.com/parshantdeep/pft-tasknode-mcp) - MCP server for Task Node
-- finances.parshant.com - Real-time portfolio dashboard
+- my-mcp-server (https://github.com/your-username/my-mcp-server) - MCP server for Task Node
+- my-dashboard.example.com - Real-time portfolio dashboard
 ```
 
 ### 4. State Your Goals Clearly

@@ -153,7 +153,7 @@ Copy-paste real terminal output. Include actual code snippets from your implemen
 $ npx pft-cli auth:status
 Auth Status:
   JWT Token: Set (expires in 23h 45m)
-  Wallet: rKHwwPqA7EKaeaTbRJ6DfbhLUarSXshcfK
+  Wallet: rYourWalletAddressHere
   Network: PFTL Testnet
   Status: Ready
 ```

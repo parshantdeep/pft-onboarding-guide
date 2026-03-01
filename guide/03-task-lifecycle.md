@@ -140,7 +140,7 @@ Build the thing. Write the analysis. Complete the exercise. Push to GitHub. Depl
 
 ```bash
 npx pft-cli chat:send \
-  --content "submit evidence for task abc123def456: https://github.com/parshantdeep/pft-onboarding-guide - Complete onboarding guide with 7 sections covering setup, context documents, task lifecycle, evidence strategies, verification, alignment scoring, and common pitfalls. All content based on real experience earning 61,437 PFT across 8 tasks." \
+  --content "submit evidence for task abc123def456: https://github.com/your-username/pft-onboarding-guide - Complete onboarding guide with 7 sections covering setup, context documents, task lifecycle, evidence strategies, verification, alignment scoring, and common pitfalls." \
   --wait
 ```
 
